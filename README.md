@@ -103,14 +103,9 @@ plt.show()
 
 ```
 ## Output:
-```
 <img width="787" height="590" alt="image" src="https://github.com/user-attachments/assets/5b71662c-40fa-4b6a-951a-e403e4e2c71e" />
-
-```
-```
 <img width="742" height="510" alt="image" src="https://github.com/user-attachments/assets/166f15c1-e66e-4642-a614-599a072ffff9" />
 
-```
 
 ## Result:
    Thus a Bayesian Network is generated using Python
